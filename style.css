@@ -1,0 +1,35 @@
+body {
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(73, 74, 174);
+    background-color: rgb(100, 145, 175);
+    text-align : center
+}
+h1 {
+    color:rgb(80, 125, 155);
+    text-decoration:wavy;
+    text-decoration: underline;
+    background-color:brown;
+    font-size: 3em;
+}
+p, ul, ol, table {
+    text-align: left;
+    max-width: 700px;
+    margin: 0 auto 1em auto;
+    line-height: 1.5;
+}
+
+ul, ol {
+    padding-left: 120px;
+}
+
+table {
+    color: rgb(62, 7, 201);
+    background-color: #1b1b3b;
+    width: 60%;
+     box-shadow: 5px -5px 4px black;
+}
+img {
+    border: 2px solid #ff00ff;
+    border-radius: 8px;
+    width: 300px;
+}
