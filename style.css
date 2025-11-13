@@ -1,8 +1,9 @@
 body {
    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:rgb(73, 74, 174);
+    color:rgb(7, 7, 174);
     background-color: rgb(100, 145, 175);
-    text-align : center
+    text-align : center ;
+    background-image : url("download\ \(1\).jpeg")
 }
 h1 {
     color:rgb(80, 125, 155);
